@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dXFguqaE8vYDYLljsaJukrxSMnIrX0DL1GuaYv30KpAdsAOYUA5p6RiNELdGdhvdUmaz5rtLtIP4u+oFiTvVgg==",
+  "dgSpecHash": "S0Ac3B5Ajm8D3AYejauwaGxXid6hE4IfTxAO29hOtvhqV/7oKKekfcQIkibSqwStFNr4QKfJoEPA8oNk24T/NQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
   "expectedPackageFiles": [
@@ -43,7 +43,7 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512",
+    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
     "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
   ],
   "logs": []
