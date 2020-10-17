@@ -18,11 +18,6 @@
                 <Label Text=" – Lắp đặt,di rời, chuyển vị trí mới cho máy lạnh, tủ lạnh, máy giặt…"/>
                 <Label Text=" – Sửa chữa máy lạnh điều hòa, tủ lạnh, tủ đông, máy giăt…"/>
                 <Label Text=" – Bảo trì, vệ sinh điều hoà không khí, vệ sinh máy giặt,…"/>
-                <Label Text="Thợ điện lạnh Nhận bảo trì máy lạnh định kỳ cho các Cơ quan, Trường học, Xí nghiệp, Bệnh Viện, Khách sạn, Ngân hàng, Nhà ở, Văn phòng, Công ty,…"
-                       TextColor="Black"/>
-                <Label Text=" – Cùng với đội ngũ Thợ có mặt ở tất cả các quận huyện thuộc Thành Phố Hồ Chí Minh."/>
-                <Label Text=" + Quận 1, Quận 2, Quận 3, Quận 4, Quận 5, Quận 6, Quận 7, Quận 8, Quận 9, Quận 10, Quận 11, Quận 12"/>
-                <Label Text=" + Quận Bình Thạnh, Quận Bình Tân, Quận Tân Phú, Quận Phú Nhuận, Quận Thủ Đức, Quận Gò Vấp, huyện Bình Chánh, huyện Củ Chí…."/>
                 <Label Text="Dịch vụ điện lạnh Thợ Việt rất mong được phục vụ quý khách hàng, Thợ điện lạnh chuyên nhận sửa chữa, vệ sinh các sản phẩm liên quan tới điện lạnh như:"
                        FontAttributes="Italic" TextColor="Black"
                        />
@@ -38,34 +33,53 @@
                     <Image Grid.Column="0" Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_Ve-sinh-may-lanh-1.jpg"/>
                     <Image Grid.Column="1" Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_tho-sua-tu-lanh-11-1.jpg"/>
                     <Image Grid.Column="2" Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_tho-sua-may-giat-2.jpg"/>
-
-
                 </Grid>
                 <!--Tho lap may lanh-->
-                <Label Text="THỢ THÁO RÁP LẮP ĐẶT MÁY LẠNH"
+                <StackLayout BackgroundColor="#f2f2f2" >
+                    <Label Text="Thợ Tháo Lắp Đặt Máy Lạnh"
                        FontSize="Medium"
                        TextColor="Black"
-                      HorizontalOptions="Center"
+                      HorizontalOptions="CenterAndExpand"
+                           HorizontalTextAlignment="Center"
                        />
-                <Label Text="– Thợ Việt nhận tháo, lắp mới, di dời máy cũ ở mọi địa thế. Lắp đặt máy lạnh với những dụng cụ chuyên dùng:"/>
-                <Label Text=" + Khoan bê tông rút lõi. Ưu điểm khi khoan xuyên tường, khoan đến đâu rút lõi bê tông đến đó, không phải đục tường như phương pháp truyền thống. Tính thẩm mỹ cao. Đạt yêu cầu về kỹ thuật."/>
-                <Label Text=" + Súng bắn vít, xoay Bulông – Nhanh chóng trong thi công. Tiết kiệm thời gian cho khách hàng."/>
-                <Image Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_tho-lap-dat-thao-rap-may-lanh_tho-viet-1.jpg" HorizontalOptions="Center" WidthRequest="150" HeightRequest="150"/>
-                
-
-                <Label Text="- Đội ngũ thợ phủ khắp các quận huyện tại TP Hồ Chí Minh. Sẽ nhanh có mặt để giải quyết vấn đề bạn gặp phải."/>
-                <Label Text="- Đội ngũ thợ phủ khắp các quận huyện tại TP Hồ Chí Minh. Sẽ nhanh có mặt để giải quyết vấn đề bạn gặp phải."/>
-                <Label Text="- Dịch vụ sửa điện tại nhà quận 1, quận 2, quận 3, quận 4, quận 5, quận 7, quận 8, quận 9, quận 10, quận 11, quận 12."/>
-                <Label Text="- Dịch vụ sửađiện tại nhà các quận Phú Nhuận, quận Bình Thạnh, quận Gò Vấp, quận Tân Bình, quận Tân Phú, quận Thủ Đức, quận Bình Tân, H Bình Chánh."/>
-                <Label Text="- Thợ Việt luôn lấy tinh thần trách nghiệm để đảm bảo chất lượng công trình. Bảo hành nhanh chóng."/>
-                <Label Text="Bên cạnh các dịch vụ về điện, Thợ Việt còn cung cấp các dịch vụ khác như:"
+                    <Label Text="– Thợ Việt nhận tháo, lắp mới, di dời máy cũ ở mọi địa thế. Lắp đặt máy lạnh với những dụng cụ chuyên dùng:"/>
+                    <Label Text=" + Khoan bê tông rút lõi. Ưu điểm khi khoan xuyên tường, khoan đến đâu rút lõi bê tông đến đó, không phải đục tường như phương pháp truyền thống. Tính thẩm mỹ cao. Đạt yêu cầu về kỹ thuật."/>
+                    <Label Text=" + Súng bắn vít, xoay Bulông – Nhanh chóng trong thi công. Tiết kiệm thời gian cho khách hàng."/>
+                    <Image Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_tho-lap-dat-thao-rap-may-lanh_tho-viet-1.jpg" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200"/>
+                </StackLayout>
+                 <!--ket thuc tho lap may lanh-->
+                <StackLayout BackgroundColor="#f2f2f2" >
+                    <Label Text="Thợ Tháo Lắp Đặt Máy Lạnh"
                        FontSize="Medium"
                        TextColor="Black"
-                      HorizontalOptions="Center"/>
-                <Label Text="_ Dịch vụ sửa chữa vệ sinh lắp đặt máy lạnh."/>
-                <Label Text="_ Sửa chữa lắp đặt thi công ống nước."/>
-                <Label Text="_ vệ sinh bể nước bồn nước, bể chứa nước sinh hoạt  mọi dung tích."/>
+                      HorizontalOptions="CenterAndExpand"
+                           HorizontalTextAlignment="Center"
+                       />
+                    <Label Text="– Thợ Việt nhận tháo, lắp mới, di dời máy cũ ở mọi địa thế. Lắp đặt máy lạnh với những dụng cụ chuyên dùng:"/>
+                    <Label Text=" + Khoan bê tông rút lõi. Ưu điểm khi khoan xuyên tường, khoan đến đâu rút lõi bê tông đến đó, không phải đục tường như phương pháp truyền thống. Tính thẩm mỹ cao. Đạt yêu cầu về kỹ thuật."/>
+                    <Label Text=" + Súng bắn vít, xoay Bulông – Nhanh chóng trong thi công. Tiết kiệm thời gian cho khách hàng."/>
+                    <Image Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_tho-lap-dat-thao-rap-may-lanh_tho-viet-1.jpg" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200"/>
+                </StackLayout>
 
+                <StackLayout BackgroundColor="#f2f2f2" >
+                    <Label Text="Thợ Tháo Lắp Đặt Máy Lạnh"
+                       FontSize="Medium"
+                       TextColor="Black"
+                      HorizontalOptions="CenterAndExpand"
+                           HorizontalTextAlignment="Center"
+                       />
+                    <Label Text="– Thợ Việt nhận tháo, lắp mới, di dời máy cũ ở mọi địa thế. Lắp đặt máy lạnh với những dụng cụ chuyên dùng:"/>
+                    <Label Text=" + Khoan bê tông rút lõi. Ưu điểm khi khoan xuyên tường, khoan đến đâu rút lõi bê tông đến đó, không phải đục tường như phương pháp truyền thống. Tính thẩm mỹ cao. Đạt yêu cầu về kỹ thuật."/>
+                    <Label Text=" + Súng bắn vít, xoay Bulông – Nhanh chóng trong thi công. Tiết kiệm thời gian cho khách hàng."/>
+                    <Image Source="https://thoviet.com.vn/wp-content/uploads/2019/10/fix_tho-lap-dat-thao-rap-may-lanh_tho-viet-1.jpg" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200"/>
+                </StackLayout>
+                
+                <Label Text="Thợ điện lạnh Nhận bảo trì máy lạnh định kỳ cho các Cơ quan, Trường học, Xí nghiệp, Bệnh Viện, Khách sạn, Ngân hàng, Nhà ở, Văn phòng, Công ty,…"
+                       TextColor="Black"/>
+                <Label Text=" – Cùng với đội ngũ Thợ có mặt ở tất cả các quận huyện thuộc Thành Phố Hồ Chí Minh."/>
+                <Label Text=" + Quận 1, Quận 2, Quận 3, Quận 4, Quận 5, Quận 6, Quận 7, Quận 8, Quận 9, Quận 10, Quận 11, Quận 12"/>
+                <Label Text=" + Quận Bình Thạnh, Quận Bình Tân, Quận Tân Phú, Quận Phú Nhuận, Quận Thủ Đức, Quận Gò Vấp, huyện Bình Chánh, huyện Củ Chí…."/>
+                
             </StackLayout>
         </ScrollView>
     </StackLayout>

@@ -10,6 +10,7 @@
       "KH/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
@@ -48,6 +49,17 @@
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
           "Microsoft.NETCore.Targets": "1.1.0"
+        }
+      },
+      "Xam.CardView.Control/1.0.0": {
+        "dependencies": {
+          "Xamarin.Forms": "4.8.0.1560"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Control.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Xamarin.Essentials/1.5.3.2": {
@@ -138,6 +150,13 @@
       "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
       "path": "system.runtime/4.3.0",
       "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "Xam.CardView.Control/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HZU9mxXqC8o0/A9sbnRmR9QhAW50n78+qlztKbBDSfA6QqrblP12UElWZgPah4/+9qWoKye6g/fmxGLqpjCDEg==",
+      "path": "xam.cardview.control/1.0.0",
+      "hashPath": "xam.cardview.control.1.0.0.nupkg.sha512"
     },
     "Xamarin.Essentials/1.5.3.2": {
       "type": "package",
