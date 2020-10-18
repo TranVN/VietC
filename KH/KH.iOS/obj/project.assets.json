@@ -11,6 +11,18 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.CardView.Control/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "compile": {
+          "lib/netstandard2.0/Control.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Control.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -24,7 +36,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.6.0.1141": {
+      "Xamarin.Forms/4.8.0.1560": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -100,8 +112,8 @@
           "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pl"
           },
-          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
-            "locale": "pt-br"
+          "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-BR"
           },
           "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pt"
@@ -162,8 +174,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.1141",
+          "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
         },
         "compile": {
@@ -184,6 +197,18 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.CardView.Control/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "compile": {
+          "lib/netstandard2.0/Control.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Control.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -197,7 +222,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.6.0.1141": {
+      "Xamarin.Forms/4.8.0.1560": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -273,8 +298,8 @@
           "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pl"
           },
-          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
-            "locale": "pt-br"
+          "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-BR"
           },
           "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pt"
@@ -335,8 +360,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.1141",
+          "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
         },
         "compile": {
@@ -357,6 +383,18 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.CardView.Control/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "compile": {
+          "lib/netstandard2.0/Control.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Control.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -370,7 +408,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.6.0.1141": {
+      "Xamarin.Forms/4.8.0.1560": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -446,8 +484,8 @@
           "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pl"
           },
-          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
-            "locale": "pt-br"
+          "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-BR"
           },
           "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pt"
@@ -508,8 +546,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.1141",
+          "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
         },
         "compile": {
@@ -530,6 +569,18 @@
           "lib/xamarinios10/_._": {}
         }
       },
+      "Xam.CardView.Control/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.482510"
+        },
+        "compile": {
+          "lib/netstandard2.0/Control.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Control.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -543,7 +594,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.6.0.1141": {
+      "Xamarin.Forms/4.8.0.1560": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -619,8 +670,8 @@
           "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pl"
           },
-          "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll": {
-            "locale": "pt-br"
+          "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll": {
+            "locale": "pt-BR"
           },
           "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll": {
             "locale": "pt"
@@ -681,8 +732,9 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
-          "Xamarin.Forms": "4.6.0.1141",
+          "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
         },
         "compile": {
@@ -754,6 +806,18 @@
         "system.componentmodel.nuspec"
       ]
     },
+    "Xam.CardView.Control/1.0.0": {
+      "sha512": "HZU9mxXqC8o0/A9sbnRmR9QhAW50n78+qlztKbBDSfA6QqrblP12UElWZgPah4/+9qWoKye6g/fmxGLqpjCDEg==",
+      "type": "package",
+      "path": "xam.cardview.control/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Control.dll",
+        "xam.cardview.control.1.0.0.nupkg.sha512",
+        "xam.cardview.control.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.5.3.2": {
       "sha512": "BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
       "type": "package",
@@ -802,13 +866,14 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.6.0.1141": {
-      "sha512": "SltuAt48A9qfC7pEo9zdQ5/IExdLkGttVAtv9bZw4IWA1SBbRpR2xbeduvowW9DQ/PjJD9HM7aSzxt0Spkwrkw==",
+    "Xamarin.Forms/4.8.0.1560": {
+      "sha512": "uWw6knrT26YOI+vZXB8YvYAEimycokY0qN58u++Rb7Y4tcWm/Fzn6UWaGaTCY1VppTXA1JrQMsb5vxBvoyYFhg==",
       "type": "package",
-      "path": "xamarin.forms/4.6.0.1141",
+      "path": "xamarin.forms/4.8.0.1560",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "Assets/xamarin_128x128.png",
         "build/MonoAndroid10/proguard.cfg",
         "build/XCODE10/Xamarin.Forms.Platform.iOS.dll",
         "build/XCODE10/Xamarin.Forms.Platform.iOS.pdb",
@@ -888,8 +953,8 @@
         "lib/MonoAndroid10.0/ja/Xamarin.Forms.Xaml.xml",
         "lib/MonoAndroid10.0/ko/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid10.0/ko/Xamarin.Forms.Xaml.xml",
-        "lib/MonoAndroid10.0/pt-br/Xamarin.Forms.Core.xml",
-        "lib/MonoAndroid10.0/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid10.0/pt-BR/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid10.0/pt-BR/Xamarin.Forms.Xaml.xml",
         "lib/MonoAndroid10.0/ru/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid10.0/ru/Xamarin.Forms.Xaml.xml",
         "lib/MonoAndroid10.0/zh-Hans/Xamarin.Forms.Core.xml",
@@ -921,8 +986,8 @@
         "lib/MonoAndroid90/ja/Xamarin.Forms.Xaml.xml",
         "lib/MonoAndroid90/ko/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid90/ko/Xamarin.Forms.Xaml.xml",
-        "lib/MonoAndroid90/pt-br/Xamarin.Forms.Core.xml",
-        "lib/MonoAndroid90/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/MonoAndroid90/pt-BR/Xamarin.Forms.Core.xml",
+        "lib/MonoAndroid90/pt-BR/Xamarin.Forms.Xaml.xml",
         "lib/MonoAndroid90/ru/Xamarin.Forms.Core.xml",
         "lib/MonoAndroid90/ru/Xamarin.Forms.Xaml.xml",
         "lib/MonoAndroid90/zh-Hans/Xamarin.Forms.Core.xml",
@@ -976,9 +1041,9 @@
         "lib/Xamarin.iOS10/nb/Xamarin.Forms.Platform.iOS.resources.dll",
         "lib/Xamarin.iOS10/nl/Xamarin.Forms.Platform.iOS.resources.dll",
         "lib/Xamarin.iOS10/pl/Xamarin.Forms.Platform.iOS.resources.dll",
-        "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Core.xml",
-        "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Platform.iOS.resources.dll",
-        "lib/Xamarin.iOS10/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Core.xml",
+        "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll",
+        "lib/Xamarin.iOS10/pt-BR/Xamarin.Forms.Xaml.xml",
         "lib/Xamarin.iOS10/pt/Xamarin.Forms.Platform.iOS.resources.dll",
         "lib/Xamarin.iOS10/ro/Xamarin.Forms.Platform.iOS.resources.dll",
         "lib/Xamarin.iOS10/ru/Xamarin.Forms.Core.xml",
@@ -1027,8 +1092,8 @@
         "lib/netstandard2.0/ja/Xamarin.Forms.Xaml.xml",
         "lib/netstandard2.0/ko/Xamarin.Forms.Core.xml",
         "lib/netstandard2.0/ko/Xamarin.Forms.Xaml.xml",
-        "lib/netstandard2.0/pt-br/Xamarin.Forms.Core.xml",
-        "lib/netstandard2.0/pt-br/Xamarin.Forms.Xaml.xml",
+        "lib/netstandard2.0/pt-BR/Xamarin.Forms.Core.xml",
+        "lib/netstandard2.0/pt-BR/Xamarin.Forms.Xaml.xml",
         "lib/netstandard2.0/ru/Xamarin.Forms.Core.xml",
         "lib/netstandard2.0/ru/Xamarin.Forms.Xaml.xml",
         "lib/netstandard2.0/zh-Hans/Xamarin.Forms.Core.xml",
@@ -1070,6 +1135,7 @@
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/PromptDialog.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Resources.xaml",
+        "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/Shell/ShellPageWrapper.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/StepperControl.xaml",
         "lib/uap10.0.14393/Xamarin.Forms.Platform.UAP/TabbedPageStyle.xaml",
@@ -1102,6 +1168,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PickerStyle.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/PromptDialog.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Resources.xaml",
+        "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Shell/ShellPageWrapper.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/Shell/ShellStyles.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/SliderStyle.xaml",
         "lib/uap10.0.16299/Xamarin.Forms.Platform.UAP/StepperControl.xaml",
@@ -1111,7 +1178,7 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.6.0.1141.nupkg.sha512",
+        "xamarin.forms.4.8.0.1560.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -1143,8 +1210,9 @@
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "KH >= 1.0.0",
+      "Xam.CardView.Control >= 1.0.0",
       "Xamarin.Essentials >= 1.5.3.2",
-      "Xamarin.Forms >= 4.6.0.1141",
+      "Xamarin.Forms >= 4.8.0.1560",
       "Xamarin.Forms.PancakeView >= 2.1.0.714"
     ]
   },
@@ -1190,13 +1258,17 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
+          "Xam.CardView.Control": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.5.3.2, )"
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.6.0.1141, )"
+            "version": "[4.8.0.1560, )"
           },
           "Xamarin.Forms.PancakeView": {
             "target": "Package",
