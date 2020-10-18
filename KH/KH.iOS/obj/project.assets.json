@@ -11,18 +11,6 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xam.CardView.Control/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.482510"
-        },
-        "compile": {
-          "lib/netstandard2.0/Control.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Control.dll": {}
-        }
-      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -174,7 +162,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
@@ -197,18 +184,6 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xam.CardView.Control/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.482510"
-        },
-        "compile": {
-          "lib/netstandard2.0/Control.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Control.dll": {}
-        }
-      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -360,7 +335,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
@@ -383,18 +357,6 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xam.CardView.Control/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.482510"
-        },
-        "compile": {
-          "lib/netstandard2.0/Control.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Control.dll": {}
-        }
-      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -546,7 +508,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
@@ -569,18 +530,6 @@
           "lib/xamarinios10/_._": {}
         }
       },
-      "Xam.CardView.Control/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.482510"
-        },
-        "compile": {
-          "lib/netstandard2.0/Control.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Control.dll": {}
-        }
-      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "frameworkAssemblies": [
@@ -732,7 +681,6 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Xam.CardView.Control": "1.0.0",
           "Xamarin.Essentials": "1.5.3.2",
           "Xamarin.Forms": "4.8.0.1560",
           "Xamarin.Forms.PancakeView": "2.1.0.714"
@@ -804,18 +752,6 @@
         "ref/xamarinwatchos10/_._",
         "system.componentmodel.4.3.0.nupkg.sha512",
         "system.componentmodel.nuspec"
-      ]
-    },
-    "Xam.CardView.Control/1.0.0": {
-      "sha512": "HZU9mxXqC8o0/A9sbnRmR9QhAW50n78+qlztKbBDSfA6QqrblP12UElWZgPah4/+9qWoKye6g/fmxGLqpjCDEg==",
-      "type": "package",
-      "path": "xam.cardview.control/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/Control.dll",
-        "xam.cardview.control.1.0.0.nupkg.sha512",
-        "xam.cardview.control.nuspec"
       ]
     },
     "Xamarin.Essentials/1.5.3.2": {
@@ -1210,31 +1146,31 @@
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
       "KH >= 1.0.0",
-      "Xam.CardView.Control >= 1.0.0",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.8.0.1560",
       "Xamarin.Forms.PancakeView >= 2.1.0.714"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thovi\\.nuget\\packages\\": {},
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+      "projectUniqueName": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
       "projectName": "KH.iOS",
-      "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
-      "packagesPath": "C:\\Users\\thovi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\obj\\",
+      "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+      "packagesPath": "C:\\Users\\ThongKieu\\.nuget\\packages\\",
+      "outputPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\thovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThongKieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1242,14 +1178,15 @@
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
-              "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj"
+            "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
+              "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj"
             }
           }
         }
@@ -1258,10 +1195,6 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
-          "Xam.CardView.Control": {
-            "target": "Package",
-            "version": "[1.0.0, )"
-          },
           "Xamarin.Essentials": {
             "target": "Package",
             "version": "[1.5.3.2, )"
