@@ -1,19 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "NJPMYYfvnxRTWfzhiAWZDJPt9rz77ZVkZLiQLdQNr0K/6A1Hl0TcnSEcS3cEcOSNZJ1RuFeOICZDAjtH48WCMQ==",
+  "dgSpecHash": "UQkMkvEu/A5Y0gdE93PCqTUjQwvdxfZJZ45tqzar/H+3eJyVnLAupCPHlj1fr5H13foZ+mVi2xjekknEeciL/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
+  "projectFilePath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thovi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\xam.cardview.control\\1.0.0\\xam.cardview.control.1.0.0.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj": {}
+    "D:\\thoviet\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj": {
+    "D:\\thoviet\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
+        "projectUniqueName": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
         "projectName": "KH.Android",
-        "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
-        "packagesPath": "C:\\Users\\thovi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\obj\\",
+        "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
+        "packagesPath": "C:\\Users\\ThongKieu\\.nuget\\packages\\",
+        "outputPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\thovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThongKieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,14 +27,15 @@
           "monoandroid90"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
-                "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj"
+              "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
+                "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj"
               }
             }
           }
@@ -42,10 +44,6 @@
       "frameworks": {
         "monoandroid90": {
           "dependencies": {
-            "Xam.CardView.Control": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.5.3.2, )"
@@ -62,20 +60,21 @@
         }
       }
     },
-    "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
+    "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
+        "projectUniqueName": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj",
         "projectName": "KH",
-        "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
-        "packagesPath": "C:\\Users\\thovi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\obj\\",
+        "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj",
+        "packagesPath": "C:\\Users\\ThongKieu\\.nuget\\packages\\",
+        "outputPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\thovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ThongKieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -83,6 +82,7 @@
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -105,10 +105,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Xam.CardView.Control": {
-              "target": "Package",
-              "version": "[1.0.0, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

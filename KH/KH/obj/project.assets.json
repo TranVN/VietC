@@ -66,18 +66,6 @@
           "ref/netstandard1.5/System.Runtime.dll": {}
         }
       },
-      "Xam.CardView.Control/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Xamarin.Forms": "3.0.0.482510"
-        },
-        "compile": {
-          "lib/netstandard2.0/Control.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Control.dll": {}
-        }
-      },
       "Xamarin.Essentials/1.5.3.2": {
         "type": "package",
         "dependencies": {
@@ -480,18 +468,6 @@
         "system.runtime.nuspec"
       ]
     },
-    "Xam.CardView.Control/1.0.0": {
-      "sha512": "HZU9mxXqC8o0/A9sbnRmR9QhAW50n78+qlztKbBDSfA6QqrblP12UElWZgPah4/+9qWoKye6g/fmxGLqpjCDEg==",
-      "type": "package",
-      "path": "xam.cardview.control/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netstandard2.0/Control.dll",
-        "xam.cardview.control.1.0.0.nupkg.sha512",
-        "xam.cardview.control.nuspec"
-      ]
-    },
     "Xamarin.Essentials/1.5.3.2": {
       "sha512": "BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
       "type": "package",
@@ -879,30 +855,30 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Xam.CardView.Control >= 1.0.0",
       "Xamarin.Essentials >= 1.5.3.2",
       "Xamarin.Forms >= 4.8.0.1560",
       "Xamarin.Forms.PancakeView >= 2.1.0.714"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thovi\\.nuget\\packages\\": {},
+    "C:\\Users\\ThongKieu\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
+      "projectUniqueName": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj",
       "projectName": "KH",
-      "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
-      "packagesPath": "C:\\Users\\thovi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\obj\\",
+      "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj",
+      "packagesPath": "C:\\Users\\ThongKieu\\.nuget\\packages\\",
+      "outputPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\thovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThongKieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -910,6 +886,7 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -932,10 +909,6 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
-          },
-          "Xam.CardView.Control": {
-            "target": "Package",
-            "version": "[1.0.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",
