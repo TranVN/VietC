@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S0Ac3B5Ajm8D3AYejauwaGxXid6hE4IfTxAO29hOtvhqV/7oKKekfcQIkibSqwStFNr4QKfJoEPA8oNk24T/NQ==",
+  "dgSpecHash": "zheGWTGQ9P5jTwfFsoj54OvDa90/6YJtq4FR3LBF1zP2n1RSe/npMvaJs6BDQNk0GmP393BGtH6U6WJ38cRgvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
+  "projectFilePath": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thovi\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.lifecycle.common\\1.1.1.3\\xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",
@@ -43,8 +43,8 @@
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.versionedparcelable\\28.0.0.3\\xamarin.android.support.versionedparcelable.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.support.viewpager\\28.0.0.3\\xamarin.android.support.viewpager.28.0.0.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
+    "C:\\Users\\Win 10\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
+    "C:\\Users\\Win 10\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
   ],
   "logs": []
 }

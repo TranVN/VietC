@@ -65,3 +65,28 @@ D:\thoviet\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csproj.CoreCompileInpu
 D:\thoviet\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csprojAssemblyReference.cache
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoDienNuoc.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\KH.deps.json
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\KH.dll
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\ref\KH.dll
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\KH.pdb
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csprojAssemblyReference.cache
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\FabCon.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoDien.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoDienLanh.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoDienNuoc.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoSuaMayLanh.xaml.g.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.AssemblyInfoInputs.cache
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.AssemblyInfo.cs
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csproj.CoreCompileInputs.cache
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.dll
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\ref\KH.dll
+C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.pdb

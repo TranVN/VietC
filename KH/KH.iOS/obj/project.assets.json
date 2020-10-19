@@ -1152,24 +1152,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thovi\\.nuget\\packages\\": {},
+    "C:\\Users\\Win 10\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
       "projectName": "KH.iOS",
-      "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
-      "packagesPath": "C:\\Users\\thovi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+      "packagesPath": "C:\\Users\\Win 10\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\thovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1183,8 +1183,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
-              "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj"
+            "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
+              "projectPath": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj"
             }
           }
         }

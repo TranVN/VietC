@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KH.Views.HomePage"
+             xmlns:vm="clr-namespace:KH.ViewModels"
+             Title="{Binding Title}">
+
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <ImageButton Source="icon_Tho1" 
+                         CornerRadius="30" 
+                         BackgroundColor="White"
+                         Grid.Column="0"
+                     Grid.Row="0"
+                   
+                 
+                        />
+        <Label Text="Tho Dien"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+                Grid.Column="0"
+                     Grid.Row="0">
+        </Label>
+        <ImageButton Source="icon_Tho1" 
+                         CornerRadius="30" 
+                         BackgroundColor="White"
+                          Grid.Column="1"
+                     Grid.Row="0"
+                        />
+        <Label Text="Tho Dien"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+                Grid.Column="1"
+                     Grid.Row="0">
+        </Label>
+        <ImageButton Source="icon_Tho1" 
+                         CornerRadius="30" 
+                         BackgroundColor="White"
+                         Grid.Column="2"
+                     Grid.Row="0"
+                        />
+        <Label Text="Tho Dien"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+                Grid.Column="2"
+                     Grid.Row="0">
+        </Label>
+
+
+    </Grid>
+
+</ContentPage>
