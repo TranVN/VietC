@@ -6,6 +6,7 @@
     
     <StackLayout HorizontalOptions="Center" Padding="10">
         <ScrollView  VerticalOptions="StartAndExpand">
+            
             <StackLayout>
                 <Label Text="Thợ Sửa Điện"
                    FontSize="Title"

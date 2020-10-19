@@ -961,7 +961,6 @@ C:\Users\thovi\source\repos\TranVN\VietC\KH\KH.Android\obj\Debug\90\android\src\
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\RectView.java
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ShapeView.java
-C:\Users\thovi\source\repos\TranVN\VietC\KH\KH.Android\obj\Debug\90\android\assets\Control.dll
 D:\thoviet\TranVN\VietC\KH\KH.Android\bin\Debug\KH.Android.dll
 D:\thoviet\TranVN\VietC\KH\KH.Android\bin\Debug\KH.Android.pdb
 D:\thoviet\TranVN\VietC\KH\KH.Android\bin\Debug\com.companyname.kh.apk

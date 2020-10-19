@@ -1152,25 +1152,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ThongKieu\\.nuget\\packages\\": {},
+    "C:\\Users\\thovi\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
       "projectName": "KH.iOS",
-      "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
-      "packagesPath": "C:\\Users\\ThongKieu\\.nuget\\packages\\",
-      "outputPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH.iOS\\obj\\",
+      "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+      "packagesPath": "C:\\Users\\thovi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\ThongKieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Users\\thovi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1178,15 +1177,14 @@
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
-              "projectPath": "D:\\thoviet\\TranVN\\VietC\\KH\\KH\\KH.csproj"
+            "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj": {
+              "projectPath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj"
             }
           }
         }

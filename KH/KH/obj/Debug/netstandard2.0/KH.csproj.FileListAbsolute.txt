@@ -22,7 +22,6 @@ C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\KH.deps.
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\KH.dll
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\ref\KH.dll
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\bin\Debug\netstandard2.0\KH.pdb
-C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csprojAssemblyReference.cache
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
 C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
@@ -64,3 +63,5 @@ D:\thoviet\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\ref\KH.dll
 D:\thoviet\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.pdb
 D:\thoviet\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csproj.CoreCompileInputs.cache
 D:\thoviet\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.csprojAssemblyReference.cache
+C:\Users\thovi\source\repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoDienNuoc.xaml.g.cs
