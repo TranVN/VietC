@@ -3,7 +3,6 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "KH.Android.dll" comes first in this list. */
 		"KH.Android.dll",
-		"Control.dll",
 		"FormsViewGroup.dll",
 		"KH.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",

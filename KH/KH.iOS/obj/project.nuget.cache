@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iA7C8wutYaks0LCCduoV/bHtmSHUkC5+3DCMb7WmBcdJRf88y8KuOXNCxrc4WD5hScmy94DKEr9vsEzCjPNaBg==",
+  "dgSpecHash": "tOsVJLvd2NnB8nn+Tu5pkEFeXlcoIS6gROzLKoZB/KL4tGz0fgWsnGq4vmaXAzct9/Y9T49DhoTYBKYhBbJM0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\thovi\\source\\repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thovi\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\thovi\\.nuget\\packages\\xam.cardview.control\\1.0.0\\xam.cardview.control.1.0.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
     "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"

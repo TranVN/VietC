@@ -80,7 +80,7 @@
     -->
 
     <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Gọi Ngay1" Icon="icon_call.png" ContentTemplate="{DataTemplate  local:ThoDienLanh}"/> 
+        <ShellContent Title="Gọi Ngay" Icon="icon_call.png" ContentTemplate="{DataTemplate  local:ThoDienNuoc}"/> 
         <ShellContent Title="Xin Chao" Icon="tab_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage }" />
         <ShellContent Title="Browse" Icon="tab_feed.png" ContentTemplate="{DataTemplate  local:ItemsPage}" />
         
