@@ -33,6 +33,7 @@
             -->
             <Style Class="FlyoutItemLabelStyle" TargetType="Label">
                 <Setter Property="TextColor" Value="White"></Setter>
+                <Setter Property="FontFamily" Value="times new roman"></Setter>
             </Style>
             <Style Class="FlyoutItemLayoutStyle" TargetType="Layout" ApplyToDerivedTypes="True">
                 <Setter Property="BackgroundColor" Value="LightBlue"></Setter>
@@ -80,7 +81,7 @@
     -->
 
     <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
-        <ShellContent Title="Gọi Ngay" Icon="icon_call.png" ContentTemplate="{DataTemplate  local:ThoDienNuoc}"/> 
+        <ShellContent Title="Gọi Ngay" Icon="icon_call.png" ContentTemplate="{DataTemplate  local:ThoThongNghet}"/> 
         <ShellContent Title="Xin Chao" Icon="tab_about.png" Route="AboutPage" ContentTemplate="{DataTemplate local:AboutPage }" />
         <ShellContent Title="Browse" Icon="tab_feed.png" ContentTemplate="{DataTemplate  local:ItemsPage}" />
         

@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KH.Views.ThoThongNghet">
+    <StackLayout HorizontalOptions="Center" Orientation="Vertical" Padding="10">
+
+        <ScrollView HorizontalOptions="FillAndExpand">
+
+            <StackLayout>
+                <Label Text="Thợ Thông Nghẹt Tại TPHCM"
+                   FontSize="Title"
+                   TextColor="red"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"
+                       HorizontalTextAlignment="Center"
+                       
+                   VerticalOptions="Start"
+                />
+                <Label HorizontalTextAlignment="Start" Text="   Thợ Việt chuyên cung cấp dịch vụ thông tắc cầu cống tại HCM. Nhận thông bồn cầu, ống thoát nước, thoát sàn nhà vệ sinh. Xử lý triệt để các sự cố nghẹt nhanh chóng và triệt để. Với đội ngũ nhiều năm kinh nghiệm cùng trang thiết bị hiện đại. Hỗ trợ nhanh chóng với chi phí thấp nhất."/>
+                
+                <StackLayout>
+                    <Label Text="Thợ Tháo Lắp Đặt Máy Lạnh"
+                       FontSize="Medium"
+                       TextColor="Black"
+                       HorizontalOptions="CenterAndExpand"
+                       HorizontalTextAlignment="Center"
+                       />
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                            <RowDefinition Height="auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Column="0"
+                           Grid.Row="0"
+                           Text ="Công Việc"
+                           HorizontalOptions="Fill"
+                           BackgroundColor="Yellow" 
+                           HorizontalTextAlignment="Center"
+                           TextColor="red"
+                           />
+                        <Label Grid.Column="1"
+                           Grid.Row="0"
+                           Text ="Giá"
+                           HorizontalOptions="Fill"
+                           BackgroundColor="Yellow"
+                           HorizontalTextAlignment="Center"
+                           TextColor="red"
+                           />
+                        <Label Grid.Row="1"
+                           Text ="Thông Nghẹt Lavabo"
+                           HorizontalOptions="Fill"
+                           HorizontalTextAlignment="Start"
+                           Margin="1"/>
+                        <Label Grid.Row="1"
+                           Grid.Column="1"
+                           Text ="Từ 250.000đ - 350.000đ"
+                           HorizontalOptions="Fill" 
+                           HorizontalTextAlignment="Start" 
+                           Margin="1"/>
+                        <Label Grid.Row="2"
+                           Text ="Thông Nghẹt Chậu Rửa Chén"
+                           HorizontalOptions="Fill"
+                           HorizontalTextAlignment="Start"
+                           Margin="1"/>
+                        <Label Grid.Row="2"
+                           Grid.Column="1"
+                           Text ="Từ 350.000đ - 450.000đ"
+                           HorizontalOptions="Fill"
+                           HorizontalTextAlignment="Start" 
+                           Margin="1"/>
+                        <Label Grid.Row="3"
+                                    
+                           Text ="Thông nghẹt thoát nước sàn toilet"
+                           HorizontalOptions="Fill"
+                           HorizontalTextAlignment="Start"
+                           Margin="1"/>
+                        <Label Grid.Row="3"
+                           Grid.Column="1"
+                           Text ="Từ 350.000đ - 450.000đ"
+                           HorizontalOptions="Fill"    
+                           
+                           HorizontalTextAlignment="Start" 
+                           Margin="1"/>
+                        <Label Grid.Row="4"                                    
+                           Text ="Thông nghẹt bồn cầu"
+                           HorizontalOptions="Fill"
+                           HorizontalTextAlignment="Start"
+                           Margin="1"/>
+                        <Label Grid.Row="4"
+                           Grid.Column="1"
+                           Text ="Từ 350.000đ - 550.000đ"
+                           HorizontalOptions="Fill"    
+                           HorizontalTextAlignment="Start" 
+                           Margin="1"/>
+                        <Label Grid.Row="5"
+                           Grid.ColumnSpan="2"
+                           Text ="Nghẹt cầu cống thoát nước: phụ thuộc tình trạng nặng nhẹ thợ sẽ báo giá trước khi làm"
+                           HorizontalOptions="Fill" 
+                           HorizontalTextAlignment="Start" 
+                           Margin="1" 
+                           FontAttributes="Italic"
+                               />
+                    </Grid>
+                </StackLayout>
+                
+                <!--cac Dich vu thong nghet-->
+
+                <Frame BackgroundColor="white" BorderColor="Silver" CornerRadius="5" HasShadow="True" Padding="5">
+                    <StackLayout>
+                        <Label Text="Dịch vụ thông nghẹt của Thợ Việt bao gồm:"
+                       FontSize="Medium"
+                       TextColor="Black"
+                       HorizontalOptions="StartAndExpand"
+                       HorizontalTextAlignment="Center"
+                       />
+                        <Label Text="– Thông cầu nghẹt, thông cống nghẹt, thông ống thoát nước."/>
+                        <Label Text="– Thông nghẹt toilet, bể phốt, chậu rửa, thoát sàn, các loại đường cống ngầm."/>
+                        <Label Text="– Lắp đặt hệ thống ngăn mùi, xử lý triệt để mùi hôi nhà vệ sinh."/>
+                        <Label Text="Thợ Việt có đội ngũ kỹ thuật viên nhiệt tình chu đáo, phong cách làm việc chuyên nghiệp và các máy móc hiện đại, đảm bảo mang đến cho khách hàng những dịch vụ tốt nhất với giá thành rẻ nhất. Khách hàng có thể hoàn toàn yên tâm khi sử dụng dịch vụ của Thợ Việt."/>
+                        <Label Text="Dịch vụ thông nghẹt giá rẻ của Thợ Việt  luôn mong muốn tiết kiệm thời gian và chi phí cho Quý khách."/>
+                    </StackLayout>
+                </Frame>
+                <!--ket thuc-->
+                <!--Tho nguyen nhan gay nghet-->
+                <Frame BackgroundColor="white" BorderColor="Silver" CornerRadius="5" HasShadow="True" Padding="5">
+                    <StackLayout >
+                        <Label Text="Nguyên nhân gây nghẹt bồn cầu, ống thoát nước"
+                       FontSize="Medium"
+                       TextColor="Black"
+                       HorizontalOptions="CenterAndExpand"
+                       HorizontalTextAlignment="Start"
+                       />
+                        <Label Text="Đối với tắc nghẽn bồn cầu:"
+                           TextColor="Black" FontAttributes="Bold"/>
+                        <Label Text=" – Do trong quá trình đi vệ sinh, người sử dụng quá nhiều giấy nên xảy ra tình trạng trắc nghẽn bồn cầu."/>
+                        <Label Text=" – Nhiều lúc vô tình làm rơi những đồ vật cứng xuống bồn cầu như bàn chải giặt đồ, bàn chải đánh răng,…"/>
+                        <Label Text=" – Sau nhiều năm sử dụng bồn cầu bị đầy hầm. Đây là điều gia đình nào cũng gặp phải."/>
+                        <Label Text=" – Ống thông hơi bồn cầu bị tắc khiến cho nước rút chậm, thậm chí bồn cầu bị hôi."/>
+                        <Image Source="https://thoviet.com.vn/wp-content/uploads/2020/08/Lap-dat-sua-chua-thong-nghet-bon-cau.gif" 
+                           HorizontalOptions="Center" WidthRequest="200" HeightRequest="200"/>
+                        <Label Text="Đối với tắc nghẽn cống thoát nước:"
+                           TextColor="Black"
+                               FontAttributes="Bold"/>
+                        <Label Text=" – Trong quá trình sinh hoạt dầu mở, chất thải bị động trong ống cống gây tắc nghẽn ống thoát."/>
+                        <Label Text=" – Quá trình thi công lắp đặt ống thoát nước không đúng kỹ thuật (lắp nhiều co, lơ) làm cho đường ống thoát nước chậm."/>
+                        <Label Text=" – Sau thời gian sử dụng sẽ khiến đường ống suy thoái, giảm chất lượng."/>
+                        
+                    </StackLayout>
+                </Frame>
+                <!--ket thuc tho sua chua may lanh-->
+                <Frame BackgroundColor="white" BorderColor="Silver" CornerRadius="5" HasShadow="True" Padding="5">
+                    <Label Text=" Khi có nhu cầu thông nghẹt cầu cống tại HCM. Hãy liên hệ với Thợ Việt theo SĐT: 0903.532.938 để được tư vấn báo giá miễn phí. "
+                       TextColor="Black"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"
+                       />
+                </Frame>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+</ContentPage>
