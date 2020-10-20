@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B/+9CItpcIZZ5wAnusDAELkMS4dYnSBYGlZzeZGbTQuzk+deaLxM3JhtALv0CXHrB38lfcsHsJqptvgyfB8ESQ==",
+  "dgSpecHash": "EzSF6YB6ipGrrVhuxWfb/rVe0sbYNpwAf3DvliFZ25EWUzBosAdeUXzRlbq3oJ8QpOHJjRXdQHp8/pDmfpQGWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
+  "projectFilePath": "C:\\Users\\Win 10\\Source\\Repos\\TranVN\\VietC\\KH\\KH\\KH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Win 10\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

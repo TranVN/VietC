@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zheGWTGQ9P5jTwfFsoj54OvDa90/6YJtq4FR3LBF1zP2n1RSe/npMvaJs6BDQNk0GmP393BGtH6U6WJ38cRgvw==",
+  "dgSpecHash": "IbReYLfKio0VRzU4PIiNACHthAet3h+Jkb6YjHkuz1RRZ0fGqLBiQdRlajCi9lwDUBy0KB0l5v4tl9v43cN84A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win 10\\source\\repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
+  "projectFilePath": "C:\\Users\\Win 10\\Source\\Repos\\TranVN\\VietC\\KH\\KH.Android\\KH.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win 10\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
