@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "t7vJ2tBaE5dF23RXAC5uGp0ssuzrm0InRTz2QnnVru+2YblICtBidhHWueTlxCyis93vEa2no9gD1MmbzdRssg==",
+  "dgSpecHash": "yigJc1H4IFfNUx2fz0B0atDMzc7pK0gBNlrazPad9t4mA0lIKEIPtq3Vcxf7nx4F7KqFLc4HZLE0XLO6sXMDww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win 10\\Source\\Repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
+  "projectFilePath": "C:\\Users\\thovi\\Source\\Repos\\TranVN\\VietC\\KH\\KH.iOS\\KH.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Win 10\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\thovi\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
-    "C:\\Users\\Win 10\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
-    "C:\\Users\\Win 10\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
+    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms\\4.8.0.1560\\xamarin.forms.4.8.0.1560.nupkg.sha512",
+    "C:\\Users\\thovi\\.nuget\\packages\\xamarin.forms.pancakeview\\2.1.0.714\\xamarin.forms.pancakeview.2.1.0.714.nupkg.sha512"
   ],
   "logs": []
 }

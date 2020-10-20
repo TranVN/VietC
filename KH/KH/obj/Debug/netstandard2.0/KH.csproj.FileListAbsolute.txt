@@ -90,3 +90,6 @@ C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\XamlC.s
 C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.dll
 C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\ref\KH.dll
 C:\Users\Win 10\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\KH.pdb
+C:\Users\thovi\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\thovi\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoMoc.xaml.g.cs
+C:\Users\thovi\Source\Repos\TranVN\VietC\KH\KH\obj\Debug\netstandard2.0\Views\ThoChongTham.xaml.g.cs
